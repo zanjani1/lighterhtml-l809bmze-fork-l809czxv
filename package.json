@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/zanjani1.lighterhtml-l809bmze-fork-l809czxv",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve VUY8TjuKxKhMEea0lRXs --open"
+  }
+}
